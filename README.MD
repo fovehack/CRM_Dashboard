@@ -37,9 +37,19 @@ Refine's hooks and components simplifies the development process and eliminates 
     npm run start
 ```
 ## Real Time Admin Dashboard
+
+## Home Page
+
 On the home page, you'll find a carefully curated mix of charts, events, and activities that give you a complete overview of your system. From key statistics to critical events, the home page provides you with the information you need to make informed decisions quickly and effectively.
 
 [![foto1.png](https://i.postimg.cc/3NGZtPv2/foto1.png)](https://postimg.cc/0K8mQXZN)
+
+## Companies
+
+The "companies" section offers a comprehensive solution for business management, providing a complete set of CRUD (Create, Read, Update, Delete) functionalities and a powerful search function. Designed to meet the needs of organizations of all sizes, our platform makes it easy to efficiently manage business-related data.
+
+[![foto2.png](https://i.postimg.cc/76XcvBq5/foto2.png)](https://postimg.cc/Hcc3X9cm)
+
 ## Learn More
 
 
