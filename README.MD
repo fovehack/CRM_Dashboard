@@ -34,8 +34,10 @@ Refine's hooks and components simplifies the development process and eliminates 
 ```bash
     npm run start
 ```
-
+### Real Time Dashboard
+[![foto1.png](https://i.postimg.cc/3NGZtPv2/foto1.png)](https://postimg.cc/0K8mQXZN)
 ## Learn More
+
 
 To learn more about **Refine**, please check out the [Documentation](https://refine.dev/docs)
 
