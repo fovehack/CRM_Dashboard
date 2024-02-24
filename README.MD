@@ -48,7 +48,7 @@ On the home page "dashboard", you'll find a carefully curated mix of charts, eve
 
 The "companies" section offers a comprehensive solution for business management, providing a complete set of CRUD (Create, Read, Update, Delete) functionalities and a powerful search function. Designed to meet the needs of organizations of all sizes, our platform makes it easy to efficiently manage business-related data.
 
-[![foto2.png](https://i.postimg.cc/76XcvBq5/foto2.png)](https://postimg.cc/Hcc3X9cm)
+[![foto2.png](https://i.postimg.cc/sX4MQY0r/foto2.png)](https://postimg.cc/k6DJLbm1)
 
 ## Learn More
 
