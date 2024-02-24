@@ -36,7 +36,8 @@ Refine's hooks and components simplifies the development process and eliminates 
 ```bash
     npm run start
 ```
-## Real Time Dashboard
+## Real Time Admin Dashboard
+On the home page, you'll find a carefully curated mix of charts, events, and activities that give you a complete overview of your system. From key statistics to critical events, the home page provides you with the information you need to make informed decisions quickly and effectively.
 [![foto1.png](https://i.postimg.cc/3NGZtPv2/foto1.png)](https://postimg.cc/0K8mQXZN)
 ## Learn More
 
