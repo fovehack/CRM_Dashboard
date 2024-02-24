@@ -42,19 +42,19 @@ Refine's hooks and components simplifies the development process and eliminates 
 
 On the home page "dashboard", you'll find a carefully curated mix of charts, events, and activities that give you a complete overview of your system. From key statistics to critical events, the home page provides you with the information you need to make informed decisions quickly and effectively.
 
-[![foto1.png](https://i.postimg.cc/wjsFhDjR/foto1.png)](https://postimg.cc/FYNjvdch)
+[![foto1.png](https://i.postimg.cc/nV0kSvrP/foto1.png)](https://postimg.cc/yW3ck3Fm)
 
 ### Companies
 
 The "companies" section offers a comprehensive solution for business management, providing a complete set of CRUD (Create, Read, Update, Delete) functionalities and a powerful search function. Designed to meet the needs of organizations of all sizes, our platform makes it easy to efficiently manage business-related data.
 
-[![foto2.png](https://i.postimg.cc/sX4MQY0r/foto2.png)](https://postimg.cc/k6DJLbm1)
+[![foto2.png](https://i.postimg.cc/Gm0sX2Ff/foto2.png)](https://postimg.cc/SJrssmtL)
 
 ### Tasks
 
 The "Tasks" section offers an advanced solution for managing tasks using a Kanban board with real-time synchronization. Designed for agile and collaborative teams, our Kanban board provides a clear, up-to-date view of the status of all tasks, making it easy to plan, track, and complete projects efficiently.
 
-[![foto3.png](https://i.postimg.cc/hPcGwZPb/foto3.png)](https://postimg.cc/grtdLDhn)
+[![foto3.png](https://i.postimg.cc/V656fQ9M/foto3.png)](https://postimg.cc/ZBtZHQMK)
 
 ## Learn More
 
